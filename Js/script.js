@@ -1,10 +1,5 @@
 /*
-#Manojkumar S
-#TheSparksFoundationInternship
-#GripJuly21
-#WebDevIntern
-#Task3
-#PaymentGatewayIntegration
+#sanjai R
 */
 
 var mybutton = document.getElementById("home");
